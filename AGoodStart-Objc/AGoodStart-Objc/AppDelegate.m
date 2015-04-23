@@ -20,6 +20,7 @@
     // Insert code here
     
     NSLog(@"Hello world");
+    printf("Hello World");
     
     return YES;
 }
